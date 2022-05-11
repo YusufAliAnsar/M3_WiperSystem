@@ -6,7 +6,8 @@
 ## Circuit Diagram 
 
 ## Block Diagram
-![image](https://user-images.githubusercontent.com/102678112/167782883-862c4fcd-e371-404c-8a67-f9d685914f9f.png)
+![Screenshot 2022-05-11 151850](https://user-images.githubusercontent.com/102678112/167821983-2b7912ca-377e-465f-b4d3-66c1d0bdda04.png)
+
 
 ## Flow Chart
 ![Screenshot 2022-05-11 151527](https://user-images.githubusercontent.com/102678112/167821169-4e4573ab-eaad-4d7b-a583-3ea9ade98fe0.png)
