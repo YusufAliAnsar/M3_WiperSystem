@@ -32,9 +32,10 @@ A capacitor is a device that stores electrical energy in an electric field. It i
 
 ![image](https://user-images.githubusercontent.com/102678112/167771908-31d64fea-4c18-4444-97e0-68cf25ac7c54.png)
 
-LED's
+## LED's
 
 A light-emitting diode is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons.
+
 ![image](https://user-images.githubusercontent.com/102678112/167772029-5ac11090-643f-4a59-aff2-b1d448853f75.png)
 
 ## Cables and Connector
@@ -48,3 +49,25 @@ A cable, also known as a cord, plug, or connector transmits power or data betwee
 A push-button or simply button is a simple switch mechanism to control some aspect of a machine or a process. Buttons are typically made out of hard material, usually plastic or metal. 
 
 ![image](https://user-images.githubusercontent.com/102678112/167772326-b28c886c-9916-49bc-9325-9d8650434ced.png)
+
+## High Level Requirements
+
+| ID | Description | Status |
+
+|----|--------------|-------|
+
+| HLR01 | Detecting rainfall and active automobile rain wiper | Implemented |
+
+| HLR02 | It operate manually | Implemented |
+
+| HLR03 | Displaying the information in led | Implemented |
+
+## Low Level Requirements
+
+| ID | Description | Status |
+
+|----|--------------|--------|
+
+| LLR01 | It work functionally according to outside water | Implemented |
+
+| LLR02 | Consume less power | Implemented |
