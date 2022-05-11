@@ -6,7 +6,7 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 ## Components Used
 
-## Stm32
+Stm32
 
 The STM32 family of 32-bit microcontrollers based on the Arm® Cortex®-M processor is designed to offer new degrees of freedom to MCU users. It offers products combining very high performance, real-time capabilities, digital signal processing, low-power / low-voltage operation, and connectivity, while maintaining full integration and ease of development.
 
