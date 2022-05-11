@@ -49,3 +49,9 @@ Wiper System Market report provides a detailed overview of the industry includin
 
 ## Threats
 A comprehensive overview of the global Wiper System market, information on factors that will fuel or hamper market growth prospects for the global Wiper System market
+
+## Application
+It is used in  four wheelers.
+It is used in aircraft.
+Low cost automation project.
+Less power consumption
