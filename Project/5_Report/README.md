@@ -53,6 +53,9 @@ A comprehensive overview of the global Wiper System market, information on facto
 ## Application
 
 It is used in  four wheelers.
+
 It is used in aircraft.
+
 Low cost automation project.
+
 Less power consumption
