@@ -32,11 +32,12 @@ A capacitor is a device that stores electrical energy in an electric field. It i
 
 ![image](https://user-images.githubusercontent.com/102678112/167771908-31d64fea-4c18-4444-97e0-68cf25ac7c54.png)
 
-## LED's
+## LED's Blinker
 
-A light-emitting diode is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons.
+LED flashers are semiconductor integrated circuits used to turn on and off groups of light emitting diodes either sequentially or according to a programmed pattern. They are found in circuits used as indicators and controllers, as well as in home-built projects.
 
-![image](https://user-images.githubusercontent.com/102678112/167772029-5ac11090-643f-4a59-aff2-b1d448853f75.png)
+![image](https://user-images.githubusercontent.com/102678112/168279129-2204d164-edcd-4f95-8c6f-74d2066f1ddd.png)
+
 
 ## Cables and Connector
 
