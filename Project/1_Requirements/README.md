@@ -6,9 +6,13 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 ## Components Used
 
-## Stm32
-
+## Stm32F4
+The STM32F4DISCOVERY Discovery kit allows users to easily develop applications withthe STM32F407VG high-performance microcontroller with the Arm® Cortex®-M4 32-bit
+core. It includes everything required either for beginners or experienced users to get startedquickly.Based on STM32F407VG, it includes an ST-LINK/V2-A embedded debug tool, one STMEMS digital accelerometer, one digital microphone, one audio DAC with integrated class Dspeaker driver, LEDs, push-buttons and a USB OTG Micro-AB connector. Specialized addon boards can be connected by means of the extension header connectors. TheSTM32F4DISCOVERY Discovery kit comes with the STM32 comprehensive free softwarelibraries and examples available with the STM32CubeF4 MCU Package.
 The STM32 family of 32-bit microcontrollers based on the Arm® Cortex®-M processor is designed to offer new degrees of freedom to MCU users. It offers products combining very high performance, real-time capabilities, digital signal processing, low-power / low-voltage operation, and connectivity, while maintaining full integration and ease of development.
+
+![Screenshot 2022-05-13 180959](https://user-images.githubusercontent.com/102678112/168285076-bf64b0d3-5455-432f-a06b-9f0082f10029.png)
+
 
 ![image](https://user-images.githubusercontent.com/102678112/167770911-b81487e4-ff98-461d-ad48-6cf34fb3f297.png)
 
