@@ -1,7 +1,8 @@
 ## M3_WiperSystem
 
 ## Structural Diagram
-![image](https://user-images.githubusercontent.com/102678112/167782772-24d774f1-a923-49f2-9fd7-17ac3e11f276.png)
+![Screenshot 2022-05-13 175939](https://user-images.githubusercontent.com/102678112/168283344-e6a27643-133d-4279-8d35-79f4d7291ff1.png)
+
 
 ## Circuit Diagram 
 
