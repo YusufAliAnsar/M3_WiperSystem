@@ -18,7 +18,7 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 | Component | Quantity |
 |-----------|----------|
-|           | Circuit design and simulation |
+|    Simulation       | Circuit design and simulation |
 | Arduino Ide |   Hex file |
 
 ## High Level Requirements
