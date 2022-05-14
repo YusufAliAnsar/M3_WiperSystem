@@ -4,6 +4,13 @@
 
 Wiper system is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The conductive (Touch) sensor is used in this project. It senses the rainfall and giving control signal to the control unit. The control unit activates the wiper motor automatically.
 
+## Badges
+
+## Codiga
+https://api.codiga.io/project/33477/score/svg
+https://api.codiga.io/project/33477/status/svg
+https://app.codiga.io/hub/user/github/YusufAliAnsar
+
 ## Folder Structure
 
 | Folder | Description |
