@@ -10,6 +10,8 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 [![CI](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/main.yml)
 
+[![git-inspector](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/git-inspector.yml)
+
 ## Codiga
 
 
