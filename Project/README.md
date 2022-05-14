@@ -17,6 +17,10 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 [![Static-Check](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/Static-Check.yml/badge.svg)](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/Static-Check.yml)
 
+## Dynamiccheck
+
+[![Dyamic-check](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/Dyamic-check.yml/badge.svg)](https://github.com/YusufAliAnsar/M3_WiperSystem/actions/workflows/Dyamic-check.yml)
+
 ## Codiga
 
 
