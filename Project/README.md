@@ -8,8 +8,12 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 ## Codiga
 https://api.codiga.io/project/33477/score/svg
+
 https://api.codiga.io/project/33477/status/svg
+
 https://app.codiga.io/hub/user/github/YusufAliAnsar
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/59257ead9b1f4e459ba964248039ffab)](https://www.codacy.com/gh/YusufAliAnsar/M3_WiperSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YusufAliAnsar/M3_WiperSystem&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 
