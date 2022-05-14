@@ -7,6 +7,8 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 ## Badges
 
 ## Codiga
+![Screenshot 2022-05-14 174125](https://user-images.githubusercontent.com/102678112/168425151-b210787d-e7fb-4f85-ae6c-b2a75e3e79b1.png)
+
 https://api.codiga.io/project/33477/score/svg
 
 https://api.codiga.io/project/33477/status/svg
