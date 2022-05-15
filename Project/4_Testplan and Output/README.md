@@ -14,3 +14,6 @@
 |----|--------------|--------|
 | LLR01 | It work functionally according to outside water | Implemented |
 | LLR02 | Consume less power | Implemented |
+
+## Output
+![WhatsApp Image 2022-05-13 at 9 56 58 AM (1)](https://user-images.githubusercontent.com/102678112/168481136-c069e491-a885-4456-bfff-500aac292a98.jpeg)
