@@ -23,7 +23,6 @@ Wiper system is automatically ON during the time of rainfall. The senor is fixed
 
 ## Codiga
 
-
 https://api.codiga.io/project/33477/score/svg
 
 https://api.codiga.io/project/33477/status/svg
